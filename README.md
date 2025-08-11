@@ -17,7 +17,8 @@ I'm a self-taught passionate iOS developer from Spain 🇪🇸
 <code><img height="20" alt="swiftui" src="https://raw.githubusercontent.com/github/explore/main/topics/swiftui/swiftui.png"></code>
 <code><img height="20" alt="ios" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></code>
 <code><img height="20" alt="unity" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png"></code>
-<code><img height="20" alt="openai" src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/go/go.png"></code>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamesoke&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mamesoke's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamesoke&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
