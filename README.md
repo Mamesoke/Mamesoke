@@ -32,6 +32,3 @@ I'm a self-taught passionate iOS developer from Spain 🇪🇸
 <br />
 <br />
 -- -->
-<a href="https://twitter.com/Mamesoke">
-  <img align="right" alt="Mamesoke | Twitter" width="21px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />
-</a>
