@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi, I'm Mamesoke!" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Mamesoke&height=200&section=header"/>
+  <img width="85%" alt="Hi, I'm Mamesoke!" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mamesoke&textBg=false&section=header&reversal=false&fontSize=90&fontAlign=50&fontAlignY=40&animation=twinkling"/>
 </p>
 
 <br />
